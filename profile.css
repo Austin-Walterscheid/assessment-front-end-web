@@ -1,0 +1,28 @@
+.int {
+    color: rgb(29, 109, 54);
+    background-color: black;
+}
+.carr {
+    color: red;
+    background-color: black;
+}
+.sk {
+    color: magenta;
+    background-color: black;
+}
+
+.big {
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+}
+.bigger {
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+}
+.biggest {
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+}
